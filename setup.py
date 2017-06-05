@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='QueryVin',
-      version='0.0.1',
+      version='0.0.2',
       description='query vin information',
       url='https://github.com/fiveddd/QueryVin',
       author='FiveDDD',
