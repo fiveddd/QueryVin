@@ -12,5 +12,6 @@ setup(name='QueryVin',
       packages=['QueryVin'],
       install_requires=[
           'requests',
+          'lxml',
       ],
       zip_safe=False)
